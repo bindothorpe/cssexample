@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.bord {
+  width: 40em;
+  height: 40em;
+  background-color: antiquewhite;
+}
+
+.center-page {
+  width: 40em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.justify-text {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+label {
+  border: 1px solid red;
+}
