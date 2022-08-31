@@ -16,6 +16,7 @@
 
 .justify-text {
   display: flex;
+  /* flex-direction: column; dit is voor het verticaal te centreren*/
   justify-content: space-evenly;
 }
 
